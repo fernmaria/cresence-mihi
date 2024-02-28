@@ -44,7 +44,7 @@ body{
 
 .navbar a:hover,
 .navbar a.active{
-    color: #ffa7a6;
+    color: #f4c2c2;
 }
 
 .home {
@@ -66,8 +66,8 @@ body{
 .btn {
     display: inline-block;
     padding: 10px 28px;
-    background: #ffa7a6;
-    border: 2px solid #ffa7a6;
+    background: #f4c2c2;
+    border: 2px solid #f4c2c2;
     border-radius: 6px;
     box-shadow: 0 0 10px rgba (0,0,0,.1);
     font-size: 16px;

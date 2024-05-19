@@ -35,7 +35,7 @@ body{
 .navbar a{
     display: inline;
     font-size: 18px;
-    color: #000000;
+    color: #9bb67f;
     text-decoration: none;
     font-weight: 500;
     margin: 0 20px;
@@ -71,7 +71,7 @@ body{
     border-radius: 6px;
     box-shadow: 0 0 10px rgba (0,0,0,.1);
     font-size: 16px;
-    color: #eaeaea;
+    color: #9bb67f;
     letter-spacing: 1px;
     text-decoration: none;
     font-weight: 600;

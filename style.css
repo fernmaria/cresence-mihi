@@ -1,5 +1,5 @@
 :root {
-  --primary-clr: #ffa7a6;
+  --primary-clr: #9bb67f;
 }
 
   * {
@@ -40,7 +40,7 @@
     display: flex;
   
     border-radius: 10px;
-    background-color: #ffa7a6;
+    background-color: #e6a8b3;
   }
   .left {
     width: 60%;
@@ -54,7 +54,7 @@
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-between;
-    color: #ffa7a6;
+    color: #e6a8b3;
     border-radius: 5px;
     background-color: #fff;
   }
@@ -68,13 +68,13 @@
     width: 12px;
     height: 97%;
     border-radius: 0 5px 5px 0;
-    background-color: #fdc5c4;
+    background-color: #cee2b1;
     transform: translateY(-50%);
   }
   .calendar::before {
     height: 94%;
     left: calc(100% + 12px);
-    background-color: rgb(207, 121, 121);
+    background-color: rgb(39, 24, 24);
   }
   .calendar .month {
     width: 100%;
@@ -378,7 +378,7 @@
     justify-content: center;
     font-size: 1.5rem;
     font-weight: 500;
-    color: #443838;
+    color: #000000;
   }
   .add-event-wrapper {
     position: absolute;
@@ -441,7 +441,7 @@
     padding: 0 10px;
     font-size: 1rem;
     font-weight: 400;
-    color: #ffa7a6;
+    color: #e6a8b3;
   }
   .add-event-body .add-event-input input::placeholder {
     color: #a5a5a5;

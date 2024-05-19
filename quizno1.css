@@ -35,7 +35,7 @@ body{
 .navbar a{
     display: inline;
     font-size: 18px;
-    color: #000000;
+    color: #9bb67f;
     text-decoration: none;
     font-weight: 500;
     margin: 0 20px;
@@ -97,11 +97,12 @@ body{
     flex-direction: column;
 }
 .home-content h1{
-    color:#f4c2c2;
+    color:#9bb67f;
     font-size: 70px;
     font-weight: 700;
     text-shadow: 0 0 10px rgba(0,0,0, .3);
     margin-bottom: 20px;
+    text-align: center;
 }
 .home-content p{
     color: #000000;
@@ -125,7 +126,7 @@ body{
     cursor: pointer;
 }
 .home-content .start-btn:hover{
-    background: #09001d;
+    background: #9bb67f;
     box-shadow: none;
 
 }
@@ -153,7 +154,7 @@ body{
 }
 .pop-up-info h2{
     font-size: 50px;
-    color: #f4c2c2;
+    color: #9bb67f;
 
 }
 
@@ -179,13 +180,13 @@ body{
     align-items: center;
     width: 130px;
     height: 45px;
-    background: #f4c2c2;
-    border: 2px solid #f4c2c2;
+    background: #9bb67f;
+    border: 2px solid #9bb67f;
     outline: none;
     border-radius: 6px;
     text-decoration: none;
     font-size: 16px;
-    color: #fff;
+    color: #e6a8b3;
     font-weight: 600;
     box-shadow: 0 0 10px rgba(0,0,0, .1);
     cursor: pointer;
@@ -246,7 +247,7 @@ body{
 .quiz-box h1{
     font-size: 32px;
     text-align: center;
-    background: linear-gradient(45deg, transparent, #f4c2c2, transparent);
+    background: linear-gradient(45deg, transparent, #9bb67f, transparent);
     border-radius: 6px;
     color:#fff;
     font-family: 'Poppins', sans-serif;
@@ -262,13 +263,13 @@ body{
 .quiz-header span{
     font-size: 18px;
     font-weight: 500;
-    color: #f4c2c2
+    color: #9bb67f;
     font-family: 'Poppins', sans-serif;
 }
 .quiz-box .quiz-header .header-score{
     color: #fff;
     font-family: 'Poppins', sans-serif;
-    background: #ffcbc4;
+    background: #cee2b1;
     border: 3px;
     padding: 7px;
 }
@@ -315,7 +316,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: #f4c2c2;
+    color: #9bb67f;
     font-family: 'Poppins', sans-serif;
     border-top: 2px solid #f4c2c2;
     padding-top: 20px;
@@ -346,7 +347,7 @@ body{
     pointer-events: auto;
     background: #f4c2c2;
     border-color: #f4c2c2;
-    color: #ead2ab;
+    color: #9bb67f;
 }
 
 .quiz-footer .next-btn.active:hover{
@@ -396,7 +397,7 @@ body{
     position: relative;
     width: 250px;
     height: 250px;
-    background: conic-gradient(#a60045 3.6deg, rgba(255, 255, 255, .1) 0deg);
+    background: conic-gradient(#cee2b1 3.6deg, rgba(255, 255, 255, .1) 0deg);
     border-radius: 50%;
     display: flex;
     justify-content: center;
